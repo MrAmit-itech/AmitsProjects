@@ -832,7 +832,7 @@
   })
   function move(data){
     localStorage.setItem('H_data',JSON.stringify(data));
-    window.location.href ='../html/ay_index.html'
+    window.location.href = "../html/ay_index.html"
   }
         })
         var span5 = document.getElementById('span_5');
