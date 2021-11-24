@@ -1,3 +1,4 @@
+
 function showannual(){
     document.getElementById('amount').style.display = 'none';
     document.getElementById('amount-a').style.display = 'block';
@@ -144,6 +145,6 @@ var flag = 0;
 
 }
 function gotohome(){
-    window.location.href = '../index.html';
+    window.location.href = '../home.html';
 }
 

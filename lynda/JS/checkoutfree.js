@@ -29,5 +29,5 @@ function update(){
 update();
 
 function gotohome(){
-    window.location.href = '../index.html';
+    window.location.href = '../home.html';
 }
