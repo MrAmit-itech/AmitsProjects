@@ -5,7 +5,7 @@
 
 ## Hosted Platform
 
-https://gurdeep7.github.io/mybodyshop/html/home
+https://mramit-itech.github.io/AmitsProjects/bodyshop
 
 ## Contributors
 
